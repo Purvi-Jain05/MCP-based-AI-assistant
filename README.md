@@ -1,4 +1,4 @@
-# ecommerce_mcp_v2
+# MCP-based-AI-assistant
 
 A small agent-based data analysis prototype using Groq LLM completion calls, pandas dataframes, and a multi-agent workflow.
 
